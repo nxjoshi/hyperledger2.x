@@ -1,0 +1,10 @@
+{
+  "param0": "Patient",
+  "param1":  "[{\"use\": \"official\",\"family\":\"SampleName\",\"given\":\"SampleName\"}]",
+  "param2": "male",
+  "param3": "r",
+  "param4": "[{\"value\": \"official\",\"use\":\"SampleName\",\"system\":\"SampleName\"},{\"value\": \"official\",\"use\":\"SampleName\",\"system\":\"SampleName\"}]",
+  "param5": "[{\"use\": \"Home\",\"line\":\"SampleLine\",\"city\":\"SampleName\",\"state\":\"SampleState\",\"country\":\"SampleCountry\",\"Period\":\"Value\",\"PostalCode\":\"Samplecode\"}]",
+  "param6": "2019-2022",
+  "param8": "true"
+}
